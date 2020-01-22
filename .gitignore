@@ -1,0 +1,12 @@
+
+node_modules/
+uploads/
+.env
+.test
+bundles/
+.next/*
+node_modules
+node_modules
+node_modules
+front/path/to
+
