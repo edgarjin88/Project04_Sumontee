@@ -24,7 +24,7 @@
     "dotenv": "^8.0.0",
     "express": "^4.16.4",
     "express-session": "^1.16.1",
-    "immer": "^3.1.2",
+    "immer": "^8.0.1",
     "jquery": "^1.9.1",
     "less-loader": "^5.0.0",
     "moment": "^2.24.0",
